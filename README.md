@@ -1,50 +1,75 @@
-# 👋 Olá! Eu sou o Mauricio Costa
+<h1 align="center">👋 Olá, eu sou o Mauricio Costa</h1>
 
-🎓 Formando em sistema da informação  
-🚀 Em busca de desafios profissionais na área de desenvolvimento
+<p align="center">
+  Desenvolvedor de Software • Estudante de Sistemas de Informação • Entusiasta de boas práticas
+</p>
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/mauriciocostadasilva" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin" />
+  </a>
+  <a href="mailto:mauriciocostadasil@gmail.com">
+    <img alt="Email" src="https://img.shields.io/badge/-Email-black?style=flat-square&logo=gmail" />
+  </a>
+  <a href="https://github.com/MauricioCostaDaSilva">
+    <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" />
+  </a>
+</div>
 
 ---
 
 ## 🧠 Sobre mim
 
-- 💻 Atuo com desenvolvimento utilizando **JavaScript**, **TypeScript**, **Node.js** e **React Native**
-- 🔍 Interesse constante por novas tecnologias e boas práticas de código
-- 🤝 Gosto de colaborar com projetos em equipe e compartilhar conhecimento
-- 📈 Sempre em evolução e aprendizado contínuo
+Sou um estudante dedicado de **Sistemas de Informação**, em constante evolução como desenvolvedor. Tenho paixão por **resolver problemas**, **trabalhar em equipe** e construir **soluções eficientes** com código limpo e organizado.
+
+- 🎓 **Faculdade**: Sistemas de Informação  
+- 🛠️ **Foco atual**: Backend com Node.js e apps mobile com React Native  
+- 📍 **Localização**: Brasil  
+- ⚙️ **Interesse**: projetos com impacto real e boas práticas de engenharia
 
 ---
 
-## 🛠️ Tecnologias que estou trabalhando
+## 🧰 Tech Stack
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
-![React Native](https://img.shields.io/badge/-React%20Native-black?style=flat-square&logo=react)
-![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
-![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
+| Linguagens | Frameworks & Libs | Ferramentas |
+|------------|-------------------|-------------|
+| JavaScript, TypeScript | Node.js, Express, React Native | Git, Docker, Figma |
+| SQL (MySQL, SQLite) | Yup, Axios, AsyncStorage | VS Code, Postman |
 
 ---
 
-## 🚀 Projeto em destaque
+## 💼 Projeto em Destaque
 
-- [📦 BelPão](https://github.com/MauricioCostaDaSilva/belp-o): Aplicativo para pedidos em padarias, com React Native, Node.js e integração com APIs de pagamento.
+### 📦 [BelPão](https://github.com/MauricioCostaDaSilva/belp-o)
 
+> Aplicativo de pedidos para padarias, com agendamento de retirada, carrinho inteligente, autenticação e integração com backend em Node.js.
 
----
-
-## 📊 Estatísticas do GitHub
-
-![Mauricio's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MauricioCostaDaSilva&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MauricioCostaDaSilva&layout=compact&theme=radical)
+**Tecnologias**: React Native, React Native Paper, AsyncStorage, Node.js, Express  
+**Objetivos**: Agilidade no atendimento, UX moderna e otimizada para mobile
 
 ---
 
-## 📬 Como falar comigo
+## 📈 GitHub Stats
 
-- 📧 E-mail: mauriciocostadasil@gmail.com  
-- 💼 [LinkedIn](https://www.linkedin.com/in/mauriciocostadasilva/)  
-- 🧑‍💻 [GitHub](https://github.com/MauricioCostaDaSilva)
+<div align="center">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=MauricioCostaDaSilva&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MauricioCostaDaSilva&layout=compact&theme=tokyonight&hide_border=true" />
+</div>
 
 ---
 
-✨ Obrigado por visitar meu perfil!
+## 📫 Contato
+
+- 📧 **Email**: [mauriciocostadasil@gmail.com](mailto:mauriciocostadasil@gmail.com)  
+- 💼 **LinkedIn**: [linkedin.com/in/mauriciocostadasilva](https://www.linkedin.com/in/mauriciocostadasilva)  
+- 🧑‍💻 **GitHub**: [github.com/MauricioCostaDaSilva](https://github.com/MauricioCostaDaSilva)
+
+---
+
+<p align="center">
+  
+  Obrigado por visitar meu perfil 🙌  
+  <br/>
+  
+  Vamos construir algo incrível juntos?
+</p>
