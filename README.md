@@ -45,7 +45,7 @@ Sou um estudante dedicado de **Sistemas de Informação**, em constante evoluç�
 > Aplicativo de pedidos para padarias, com agendamento de retirada, carrinho inteligente, autenticação e integração com backend em Node.js.
 
 **Tecnologias**: React Native, React Native Paper, AsyncStorage, Node.js, Express  
-**Objetivos**: Agilidade no atendimento, UX moderna e otimizada para mobile
+
 
 ---
 
