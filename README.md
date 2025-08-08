@@ -28,8 +28,7 @@
 ## 🚀 Projetos em destaque
 
 - [📦 BelPão](https://github.com/MauricioCostaDaSilva/belp-o): Aplicativo para pedidos em padarias, com React Native, Node.js e integração com APIs de pagamento.
-- [📁 Orthanc Downloader](https://github.com/MauricioCostaDaSilva): API em Flask para download e gerenciamento de arquivos DICOM, com filas, expiração e monitoramento.
-- [⚙️ Serviço de Expurgo S3](https://github.com/MauricioCostaDaSilva): Serviço com Node.js para expurgar dados antigos de PACS, utilizando AWS S3 e filas paralelas.
+
 
 ---
 
