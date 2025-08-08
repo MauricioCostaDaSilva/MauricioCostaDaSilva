@@ -25,7 +25,7 @@
 
 ---
 
-## 🚀 Projetos em destaque
+## 🚀 Projeto em destaque
 
 - [📦 BelPão](https://github.com/MauricioCostaDaSilva/belp-o): Aplicativo para pedidos em padarias, com React Native, Node.js e integração com APIs de pagamento.
 
