@@ -1,26 +1,51 @@
+# 👋 Olá! Eu sou o Mauricio Costa
 
+🎓 Formando em sistema da informação  
+🚀 Em busca de desafios profissionais na área de desenvolvimento
 
+---
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="mc-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="mc-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="mc-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="mc-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="mc-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+## 🧠 Sobre mim
 
+- 💻 Atuo com desenvolvimento utilizando **JavaScript**, **TypeScript**, **Node.js** e **React Native**
+- 🔍 Interesse constante por novas tecnologias e boas práticas de código
+- 🤝 Gosto de colaborar com projetos em equipe e compartilhar conhecimento
+- 📈 Sempre em evolução e aprendizado contínuo
 
-  
-</div>
+---
 
+## 🛠️ Tecnologias que estou trabalhando
 
-##
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
+![React Native](https://img.shields.io/badge/-React%20Native-black?style=flat-square&logo=react)
+![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
 
- 
-<div> 
- <a href="https://discord.com/channels/@me" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:mauriciciocostadasil@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/mauriciocostadasilva/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
-</div>
+---
 
+## 🚀 Projetos em destaque
 
+- [📦 BelPão](https://github.com/MauricioCostaDaSilva/belp-o): Aplicativo para pedidos em padarias, com React Native, Node.js e integração com APIs de pagamento.
+- [📁 Orthanc Downloader](https://github.com/MauricioCostaDaSilva): API em Flask para download e gerenciamento de arquivos DICOM, com filas, expiração e monitoramento.
+- [⚙️ Serviço de Expurgo S3](https://github.com/MauricioCostaDaSilva): Serviço com Node.js para expurgar dados antigos de PACS, utilizando AWS S3 e filas paralelas.
+
+---
+
+## 📊 Estatísticas do GitHub
+
+![Mauricio's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MauricioCostaDaSilva&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MauricioCostaDaSilva&layout=compact&theme=radical)
+
+---
+
+## 📬 Como falar comigo
+
+- 📧 E-mail: mauriciocostadev@gmail.com  
+- 💼 [LinkedIn](https://www.linkedin.com/in/mauriciocostadasilva/)  
+- 🧑‍💻 [GitHub](https://github.com/MauricioCostaDaSilva)
+
+---
+
+✨ Obrigado por visitar meu perfil!
