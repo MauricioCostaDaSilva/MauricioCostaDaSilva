@@ -42,7 +42,7 @@
 
 ## 📬 Como falar comigo
 
-- 📧 E-mail: mauriciocostadev@gmail.com  
+- 📧 E-mail: mauriciocostadasil@gmail.com  
 - 💼 [LinkedIn](https://www.linkedin.com/in/mauriciocostadasilva/)  
 - 🧑‍💻 [GitHub](https://github.com/MauricioCostaDaSilva)
 
